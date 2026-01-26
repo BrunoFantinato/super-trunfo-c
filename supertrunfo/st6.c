@@ -400,7 +400,7 @@ if (escolhaAtributo == escolhaAtributo2) {
                 break;
         }
 
-        printf("Soma dos atributos de %s: %.2f\n", nome1, somaCidade1);
+        printf("Soma dos atributos de (%s): %.2f\n", nome1, somaCidade1);
         printf("Soma dos atributos de %s: %.2f\n", nome2, somaCidade2);
     }
 
