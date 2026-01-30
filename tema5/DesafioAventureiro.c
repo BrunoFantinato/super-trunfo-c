@@ -30,6 +30,10 @@
         {
             tabuleiro[7 + k][2 - k] = NAVIO;
         }
+                for (int k = 0; k < 3; k++)
+        {
+            tabuleiro[3 + k][1 + k] = NAVIO;
+        }
 
         printf("\n BATALHA NAVAL\n\n");
 
